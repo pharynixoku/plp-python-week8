@@ -1,0 +1,64 @@
+1. TOOLS
+
+Tool 1: Simple Calculator
+This tool asks the user for two numbers and performs addition, subtraction, multiplication, or division.
+
+Tool 2: To-Do List
+This tool allows the user to add tasks, view tasks, and remove tasks from a changing list.
+
+Tool 3: Even Number Checker
+This tool asks the user for a number and checks whether the number is even or odd.
+
+Tool 4: Name Formatter
+This tool asks the user for their name and displays it in a clean and friendly format.
+
+2. MENU TEXT
+
+
+-----------------------------------
+     WELCOME TO MY MINI-TOOLKIT
+-----------------------------------
+
+Please choose a tool:
+
+1. Simple Calculator
+2. To-Do List
+3. Even Number Checker
+4. Name Formatter
+5. Quit
+
+3. CONCEPTS USED
+
+Simple Calculator:
+- Variables
+- Input
+- Conditionals
+- Arithmetic operators
+- F-strings
+
+To-Do List:
+- Lists
+- Loops
+- Input
+- Conditionals
+- append()
+- remove()
+- F-strings
+
+Even Number Checker:
+- Variables
+- Input
+- Conditional statements
+- Modulus (%) operator
+- F-strings
+
+Name Formatter:
+- Input
+- Variables
+- String methods
+- F-strings
+
+Main Menu:
+- while loop
+- if / elif / else
+- User input
